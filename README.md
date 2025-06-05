@@ -6,10 +6,9 @@ Welcome to my GitHub profile! I'm a Software Engineer who enjoys learning and bu
 
 ## 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code)
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+          
 
 
 ---
