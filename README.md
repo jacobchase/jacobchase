@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a Software Engineer who enjoys learning and bu
 ## 🛠️ Technologies & Tools
 
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
           
 
 
